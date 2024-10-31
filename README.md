@@ -68,9 +68,6 @@
   <a href="https://github.com/Sanyela/SCUM_Store_Bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanyela&repo=SCUM_Store_Bot&theme=vue-dark" />
   </a>
-<!--   <a href="https://github.com/Sanyela/你的第二个项目">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanyela&repo=你的第二个项目&theme=vue-dark" />
-  </a> -->
 </div>
 
 <!-- 动态彩带 -->
