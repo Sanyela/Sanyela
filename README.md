@@ -65,7 +65,7 @@
 ## 🎨 我的作品
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanyela&repo=你的项目名" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanyela&repo=SCUM_Store_Bot" />
 </div>
 
 <!-- 动态彩带 -->
