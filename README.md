@@ -50,7 +50,7 @@
 
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sanyela&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-  [<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyela&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyela&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&langs_count=10)
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyela&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </div>
 
 <div align="center">
@@ -65,7 +65,12 @@
 ## 🎨 我的作品
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanyela&repo=SCUM_Store_Bot" />
+  <a href="https://github.com/Sanyela/SCUM_Store_Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanyela&repo=SCUM_Store_Bot&theme=vue-dark" />
+  </a>
+<!--   <a href="https://github.com/Sanyela/你的第二个项目">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanyela&repo=你的第二个项目&theme=vue-dark" />
+  </a> -->
 </div>
 
 <!-- 动态彩带 -->
