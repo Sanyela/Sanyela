@@ -13,8 +13,8 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="你的博客"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-  <a href="你的邮箱"><img src="https://img.shields.io/badge/Email-邮箱-blue" /></a>&emsp;
+  <a href="https://blog.52ai.org"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+  <a href="mailto:my@52ai.org"><img src="https://img.shields.io/badge/Email-邮箱-blue" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=Sanyela&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
