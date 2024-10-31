@@ -70,11 +70,6 @@
   </a>
 </div>
 
-<!-- 动态彩带 -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github-contribution-grid-snake.svg" />
-</div>
-
 <!-- 星星动画 -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
